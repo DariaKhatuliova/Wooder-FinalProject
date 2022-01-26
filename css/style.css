@@ -1219,7 +1219,6 @@ body {
 
   .services__img {
     width: 75%;
-    -ms-flex-preferred-size: 300px;
     flex-basis: 300px;
   }
 
